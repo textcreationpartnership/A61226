@@ -1,0 +1,160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A supplemental tract of government to be annexed into the Book of happiness, &amp;c. Chap. 3, circa pag. 147 which may be applied to all nations, but this is now particularly referred to the consideration of the Lords and Commons assembled in this present Parliament at Westminster, January 4, 1690/89.</title>
+            <author>Stafford, Richard, 1663-1703.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61226</idno>
+            <idno type="STC">Wing S5140</idno>
+            <idno type="STC">ESTC R15509</idno>
+            <idno type="EEBO-CITATION">11926298</idno>
+            <idno type="OCLC">ocm 11926298</idno>
+            <idno type="VID">51022</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61226)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 51022)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 515:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A supplemental tract of government to be annexed into the Book of happiness, &amp;c. Chap. 3, circa pag. 147 which may be applied to all nations, but this is now particularly referred to the consideration of the Lords and Commons assembled in this present Parliament at Westminster, January 4, 1690/89.</title>
+                  <author>Stafford, Richard, 1663-1703.</author>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed Richard Stafford.</note>
+                  <note>Broadside.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James --  II, --  King of England, 1633-1701.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:51022:1"/>
+            <head>A Supplemental Tract of Government to be annexed unto the Book of <hi>Happineſs,</hi> &amp;c. <hi>Chap.</hi> 3. <hi>Circa Pag.</hi> 147. Which may be applied to all Nations; But this is now particularly referred to the Conſi<g ref="char:EOLhyphen"/>deration of the Lords and Commons aſſembled in this preſent Parliament at <hi>Weſtminſter, January</hi> 4. 1689/90.</head>
+            <p>CHriſt, according to what is written of him, <hi>Iſa.</hi> 9. 6, 7. hath laid down ſure and laſting Founda<g ref="char:EOLhyphen"/>tions of Government, <hi>To order it, and to eſtabliſh it with Judgment, and with Juſtice, from hence<g ref="char:EOLhyphen"/>forth even for ever; the Zeal of the Lord of Hoſts will perform this.</hi> The Lord hath given ſuch Laws, Rules and Directions to the World, that, if they were obſerved, would produce a perpetual Peace and Settlement throughout the whole Earth; But by Diſobedience and turning aſide comes in confuſion, and every evil Work, as may be ſeen in the fore-going Diſcourſe, wherein the Nature o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Go<g ref="char:EOLhyphen"/>vernment is particularly ſtated in order to Preſervation and outward Peace.</p>
+            <p>And having there manifeſted the Truth, and ſhewed thoſe Relational Duties between King and Subjects, I come now to apply it to the People of <hi>England,</hi> viz. In the late Revolution of putting down one King, and ſetting up another, in this They are a <hi>Nation that have not done Righteouſneſs,</hi> but they have <hi>forſook the Ordinance of their God;</hi> They have actually departed from that Eſtabliſhed and fixed Or<g ref="char:EOLhyphen"/>der of Things he hath ſet up. So they are in danger to <hi>dye in their Sins,</hi> John 8. 24. <hi>And ſhall utterly periſh in their own Corruption,</hi> 2 Pet. 2. 12. Their ſeveral Perſons ſhall appear before the Judgment Seat of God, to give Account, and receive for what they have done concerning this Matter. <hi>Seeing they deſpiſed the Oath, by breaking the Covenant, (when lo, they had given their Hand) and have done all theſe things, they ſhall not eſcape. Therefore thus ſaith the Lord God, As I live, ſurely mine Oath that they have deſpiſed, and my Covenant that they have broken, even it will I Recompence upon their own Head,</hi> Ezek. 17. 18, 19. This place of Holy Writ is full and direct to the preſent purpoſe; for it is ſpoken as to the King of <hi>Ba<g ref="char:EOLhyphen"/>bylon,</hi> who was an Heathen, and as much an Idolater and Eſtranged from God as a <hi>Popiſh</hi> Prince: But the Almighty doth take the more notice, when through his own People his Name is prophaned or blaſ<g ref="char:EOLhyphen"/>phemed amongſt the Heathen. He calls it in a Peculiar manner, <hi>Mine Oath</hi> and <hi>my Covenant:</hi> It is yet a greater aggravation to <hi>hold the Truth in <g ref="char:V">Ʋ</g>nrighteouſneſs:</hi> It is worſe to give occaſion for the Way of Truth to be evil ſpoken of. And therefore, when thoſe of the pure reformed Religion had ſworn a ſolemn Oath of Allegiance and Supremacy to a King, (whom they then knew to be a <hi>Papiſt)</hi> his lawful Heirs and Succeſſors, in ſo ſtrict and particular manner, as Words can well expreſs; When they had Crowned him, and performed <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ealty; which probably was a like Ceremony which the Prophet here calls <hi>(when to, he had given his Hand).</hi> To deſpiſe this Oath, and break this Covenant, makes <hi>Prote<g ref="char:EOLhyphen"/>ſtaniſm</hi> ſtink, and be evil ſpoken of throughout the World, and offends every one who is zealous for his God, and hath a right ſence of his infinite Holineſs and Uprightneſs.</p>
+            <p>In this Alteration, They did <hi>take Counſel,</hi> but <hi>not of the Lord,</hi> Iſa. 30. 1. They had reſpect unto what they thought preſent Conveniency, but did not conſult his Word, nor ſeek unto him <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or Dire<g ref="char:EOLhyphen"/>ction by Prayer and Humiliation: But it was done by their own Councils and manner of Vote. And af<g ref="char:EOLhyphen"/>terwards they would <hi>cover with a Covering, but not of my Spirit, that they may add Sin to Sin.</hi> The <hi>Scribes</hi> and <hi>Phariſees</hi> of our Time have found out ſeveral Gloſſes, Diſtinctions, Reſtrictions, and Sen<g ref="char:EOLhyphen"/>timents of their own deviſing, by which they would ſlubber over Perjury, and ſanctifie Injuſtice. It is manifeſt by <hi>Deut.</hi> 32. 4. <hi>Hab.</hi> 1. 13, 14. <hi>Iſa.</hi> 5. 16. &amp; 61. 8. <hi>Job</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>3. 7. <hi>Pſal.</hi> 33. 4. &amp; 111, 7, 8. &amp; 145. 17. <hi>Rom.</hi> 3. 8. And ſundry other places of his Revealed Word, That This Revolution is none of God's Work or Doing in which he is well pleaſed: Only what he ſuffers, as he doth all the Sin and Wick<g ref="char:EOLhyphen"/>edneſs in the World, and ſo he did the Manners of the <hi>Iſraelites</hi> Forty Years in the Wilder<g ref="char:EOLhyphen"/>neſs.</p>
+            <p>Then they did abrogate the former Oaths of Allegiance and Supremacy, and impoſe a new one. Shall ſuch eſcape by Iniquity? <hi>And have done all theſe Things, they ſhall not eſcape.</hi> For my own part, I have been as it were retired from the World, and know not thoſe particular Proceedings from the very beginning to this Time; But yet, <hi>The Lord looketh from Heaven, he beholdeth all the Sons of Men; from the place of his Habitation he looketh upon all the Inhabitants of the Earth; He conſidereth all their Works:</hi> So he knoweth every Thing they have done Day by Day, all the ſeveral Occurrences, all the Lying Stories and Falſe Accuſat<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ons, the cloſe and hidden Acts of Hypocriſie, all the tricks of <hi>Machiavelian</hi> Policy, and the ſeveral kinds of Sin and Wickedneſs. <hi>Theſe things have you done, and I kept ſilence; but I will Reprove, and ſet them in order before you.</hi> As they were committed from Time to Time, ſo will he bring every ſecret thing into Judgment.</p>
+            <p>
+               <hi>Therefore thus ſaith the Lord God, as I live, ſurely mine Oath that they have deſpiſed, and my Covenant that they have broken, even it will I Recompence upon their own Head.</hi> Here the Threatning is confirmed as much as poſſible, <hi>As I live,</hi> which is as ſure as he is God, which again is as certain as that there is a World, and any thing in it, ſo certainly will he Recompence it upon your own Head. As you have
+<pb facs="tcp:51022:2" rendition="simple:additions"/> already deſpiſed his Oath, ſo you may here deſpi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> his Words; But beware leſt that alſo come upon you, <hi>Behold ye Deſpiſers, and Wonder, and Periſh:</hi> Take heed leſt you provoke him yet more, and ſo fall into a greater degree of his Wrath and ſore Diſpleaſure. It is an eaſie matter to ſlight it all off, and put away his Statutes from you; but you cannot poſſibly avoid your own Particular Deaths, whereby you fall into the Hands of the Living God, &amp; then he will account with all thoſe who behave themſelves ſtubborn<g ref="char:EOLhyphen"/>ly and contemptuouſly againſt him. You may now drive theſe Melancholly Fancies out of your Mind, Eat, Drink, and be Merry, have recourſe to Company, and ſo forget or harden your ſelves againſt what is now offered unto you. <hi>When the two Prophets ſhall be ſlain, They that dwell upon the Earth ſhall rejoyce over them, and make merry, and ſhall ſend Gifts one to another; becauſe theſe two Prophets tormented them that dwelt on the Earth,</hi> Rev. 11. 10. But it would be ſome advantage and help for them, if they could eat or drink any thing which would make themſelves Immortal, that they ſhould not dye, and ſo prevent their own coming to Judgment: But now as the caſe ſtandeth, they had better hearken, and alſo comply with thoſe who would have hindred their own approaching Ruin and Deſtruction; who do only exhort and teſtifie that Mankind do repent and forſake thoſe Sins which do cauſe preſent Vexa<g ref="char:EOLhyphen"/>tion, and render them liable unto future Miſery.</p>
+            <p>We have ſinned with our Fathers, We have committed Iniquity, We have done Wickedly. This Na<g ref="char:EOLhyphen"/>tion hath ſlain the Lords Anointed, for which is kept an Anniverſary Day of Humiliation &amp; Repentance. His Son was 12 Years kept out of his Kingdom, and afterwards reſtored, for which alſo is an Anniver<g ref="char:EOLhyphen"/>ſary day of Thanksgiving, with forms of Prayer and Devotion anſwerable to it. His Brother, who hath the ſame Right, ſtands now excluded. Be not deceived, God is not mocked: Though he doth now hold his Tongue, and ſeems to be gone afar off; yet even now he ſpeaks unto us out of his Word, and is not far from every one of us: However, we muſt meet with and appear before him, when the Judge ſhall teſtifie himſelf, and give a clear account how we have Treſpaſſed againſt our God, by Tranſgreſſing his Laws, changing the Ordinance, and breaking the everlaſting Covenant.</p>
+            <p>
+               <hi>Yet now there is hope in</hi> Iſrael <hi>concerning this thing,</hi> Ezra 10. 2. We learn hence and from other places of Scripture, That there is no other way to Eſcape, but to Repent, and undo what we have done; for that is the Nature of true Repentance, that if it were to do again we would not do it; and alſo to un<g ref="char:EOLhyphen"/>do a Fault as much as we can. Accordingly your ſelves being now aſſembled in <hi>Parliament,</hi> may give order for a Day of Humiliatiou throughout this Kingdom, and then take Counſel from God, and ſeek out of his Word and Commandment, Whether you ought not in Duty to ſend Commiſſioners, and re<g ref="char:EOLhyphen"/>ſtore your late King <hi>James</hi> to the Seat and Throne of his Anceſtors. Implore the Mercy and Forgive<g ref="char:EOLhyphen"/>neſs of Almighty God for all your Sins, and eſpecially of Falſhood and Unrighteouſneſs<g ref="char:punc">▪</g> This you muſt do whilſt you are here a little while; otherwiſe for your contempt and refuſal, every one of you ſhall give account to God at <hi>the Judgment of the great Day.</hi>
+            </p>
+         </div>
+         <div type="text">
+            <head>A Word to the Preſent King <hi>William</hi> and Queen <hi>Mary,</hi> and to the Clergy.</head>
+            <p>LEt the King <hi>de facto</hi> be told, ſeeing that he is ſo deſirous of a Kingdom, let him take heed <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſt by endeavouring to keep that which is tottering and moveable here on Earth, he loſe that Eternal Kingdom above, which cannot be ſhaken.</p>
+            <p>Put the Queen in Remembrance, <hi>Honour thy Father and Mother, which is the firſt Commandment with Promiſe, That it may be well with thee, and thou mayſt live long on the Earth,</hi> Eph. 6. 2, 3. Which doth imply, that if ſhe doth not, ſhe will not be long Settled and Eſtabliſhed here.</p>
+            <p>The Arch-Biſhop of <hi>Canterbury,</hi> and the reſidue of the Governours of the Church, with the infe<g ref="char:EOLhyphen"/>rior Clergy, are to conſider and Tremble at what is written; <hi>The Lord ſaw it, and it diſpleaſed him that there was no Judgment. And he ſaw that there was no man, and wondred that there was no Interceſſour,</hi> Iſa. 59. 15, 16.</p>
+            <p>He that is placed over this Dioceſs, ſhould not have returned Evil for Evil, for ſo <hi>have we not lear<g ref="char:EOLhyphen"/>ned Chriſt.</hi>
+            </p>
+            <p>And now having laid theſe things before you; To ſend me unto Priſon, or proceed againſt me as an Evil-doer, This is to <hi>add Iniquity to your Iniquity,</hi> and not to <hi>come into the Way of Righteouſneſs;</hi> It is to <hi>kick againſt the Pricks,</hi> which the more fiercely you do, the more you will wound your ſelves. When God is diſhonoured by the breach of his Law, Thoſe who have a Love, Zeal, and Fear of his ſacred Majeſty ſhould bear forth Teſtimony againſt it, both to keep up his Government over the World, and alſo to aſſert (notwithſtanding all Tranſgreſſion) the immutable Rules of Judgment and Righteouſneſs: Accordingly to all that is afore written I do here ſet my Name,</p>
+         </div>
+         <closer>
+            <signed>RICHARD STAFFORD, <hi>A Servant of God, and the Lord Jeſus Chriſt.</hi>
+            </signed>
+         </closer>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
